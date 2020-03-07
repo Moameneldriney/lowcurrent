@@ -499,7 +499,7 @@
  }
  
  .header-info-box .hib-text p {
-   margin-bottom: 0;
+   margin-bottom: 6px ;
  }
  
  .search-switch {
@@ -1726,6 +1726,7 @@
  .map-section {
    position: relative;
    padding: 115px 0 110px;
+   height: 500px;
  }
  
  .map-section .container {
